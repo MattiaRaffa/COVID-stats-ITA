@@ -10,7 +10,7 @@ dati ufficiali: https://github.com/pcm-dpc/COVID-19
 
 ![alt text](Figure_1bhjb.png)
 
-![alt text](Screenshot 2.png)
+![alt text](Screenshot2.png)
 
 # futuri aggiornamenti
 - plot ultimi 15gg
