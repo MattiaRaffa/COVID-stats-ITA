@@ -9,6 +9,7 @@ la linea tratteggiata mostra il delta che risale al lockdown +30% considerando:
 dati ufficiali: https://github.com/pcm-dpc/COVID-19
 
 ![alt text](Figure_1bhjb.png)
+![alt text](Screenshot 2.png)
 
 # futuri aggiornamenti
 - plot ultimi 15gg
